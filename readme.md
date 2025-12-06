@@ -15,7 +15,7 @@
 | -------------- | ------------ | ---- | ------------- |
 | 4w挑战 by voca | 本轮12/8截止 | -    | 加群814784988 |
 
-## 主流游戏推荐
+## 主流游戏推荐（高综合评分）
 
 | 游戏名    | 主玩法    | 网页 | 支持手机 |
 | --------- | --------- | ---- | -------- |
@@ -27,10 +27,9 @@
 
 ## 资料网站们
 
-- [中文方块维基](http://tetriswiki.cn)
+- [俄罗斯方块中文维基](http://tetriswiki.cn)
 - [HardDrop Wiki](https://harddrop.com/wiki)
 - [Tetris Wiki](https://tetris.wiki)
-- [Fandom Wiki](https://tetris.fandom.com)
 
 ## 群列表和活跃情况
 
